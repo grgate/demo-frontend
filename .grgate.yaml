@@ -1,0 +1,4 @@
+enabled: true
+statuses:
+  - e2e feature a
+  - e2e feature b
