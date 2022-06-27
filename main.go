@@ -25,7 +25,7 @@ func main() {
 }
 
 func serveHTTP() {
-	fmt.Printf("serving http :8080 | version: %s | commit sha: %s | backend "+
+	fmt.Printf("aaaaserving http :8080 | version: %s | commit sha: %s | backend "+
 		"host: %s\n", version, commitSha, backendHost)
 
 	m := http.NewServeMux()
